@@ -16,3 +16,5 @@ Welcome to my academic portfolio for CEP146 - Computing for Programmers!
 
 ## Projects
 *This section will be updated as I complete assignments*
+## tomas silva line
+good job like you'r major
